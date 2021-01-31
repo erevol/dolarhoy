@@ -2,6 +2,17 @@
 
 Flutter project using ambito.com API to get dollar prices and variations.
 
+## Captures
+
+**App Icon**
+
+<img src="assets/images/preview-2.jpeg" width="350" title="App Icon">
+
+
+**Preview**
+
+<img src="assets/images/preview-1.jpeg" width="350" title="Preview">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
