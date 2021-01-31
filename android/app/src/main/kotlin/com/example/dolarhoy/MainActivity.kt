@@ -1,4 +1,4 @@
-package com.example.dolarhoy
+package com.erevol.dolarhoy
 
 import io.flutter.embedding.android.FlutterActivity
 
